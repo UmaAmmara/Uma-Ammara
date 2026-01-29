@@ -1,77 +1,90 @@
-# Hi 👋, I'm a aspiring Software Engineer
+Hi, I’m an Aspiring Software Engineer
 
-I am a passionate and self-motivated **Software Engineer** with strong interests in **Artificial Intelligence (AI), Web Development, and Blockchain**.  
-I enjoy building real-world applications, learning modern technologies, and solving complex problems through clean, efficient, and scalable code.
+I am a motivated and detail-oriented Software Engineer with a strong interest in Artificial Intelligence (AI) and Full Stack Web Development.
+I enjoy building real-world applications, learning modern technologies, and solving problems through clean, efficient, and scalable code.
 
----
+🚀 Skills & Expertise
+💻 Web Development
 
-## 🚀 Skills & Expertise
+Frontend development using HTML, CSS, and JavaScript
 
-### 💻 Web Development
-- Frontend development using **HTML, CSS, JavaScript**
-- Modern UI development with **React.js**
-- Backend development using **Flask**, **Node.js**, and **Express.js**
-- Building RESTful APIs and integrating frontend with backend
-- Responsive and user-friendly web interfaces
+Modern UI development with React.js
 
-### 🤖 Artificial Intelligence & NLP
-- Strong understanding of **Machine Learning fundamentals**
-- Experience with **Artificial Intelligence concepts**
-- Hands-on knowledge of **Natural Language Processing (NLP)**
-- Data analysis and experimentation using **Python**
+Backend development using Flask, Node.js, and Express.js
 
-### 🔗 Blockchain (Interest Area)
-- Understanding of **blockchain fundamentals**
-- Interest in decentralized applications (dApps)
-- Exploring smart contracts and blockchain-based systems
+Building and consuming RESTful APIs
 
----
+Creating responsive, user-friendly web applications
 
-## 🛠️ Technologies & Tools
+🤖 Artificial Intelligence & NLP
 
-### Programming Languages
-- **JavaScript**
-- **Python**
-- **Java**
+Solid understanding of Machine Learning fundamentals
 
-### Frameworks & Libraries
-- **React.js**
-- **Flask**
-- **Node.js**
-- **Express.js**
+Knowledge of Artificial Intelligence concepts
 
-### Databases
-- **MongoDB**
-- **PostgreSQL**
+Hands-on experience with Natural Language Processing (NLP)
 
-### Cloud & Dev Tools
-- **Google Cloud Shell**
-- **Google Cloud Console**
-- Git & GitHub
-- REST APIs
-- JSON
+Data analysis and experimentation using Python
 
----
+🛠️ Technologies & Tools
+Programming Languages
 
-## 📌 What I’m Currently Doing
-- Improving my skills in **AI-driven and Full Stack Web Development**
-- Learning **Blockchain technologies**
-- Working with **cloud-based development environments**
-- Building personal and academic projects
+JavaScript
 
----
+Python
 
-## 🎯 Goals
-- Build intelligent and scalable applications
-- Grow as a **Full Stack & AI-focused Developer**
-- Gain hands-on experience with blockchain systems
-- Continuously learn and adapt to emerging technologies
+Java
 
----
+Frameworks & Libraries
 
-## 📫 Connect With Me
-Feel free to explore my repositories and connect with me here on GitHub.
+React.js
 
----
+Flask
 
-⭐ *Always open to learning, collaboration, and new challenges.*
+Node.js
+
+Express.js
+
+Databases
+
+MongoDB
+
+PostgreSQL
+
+Development Tools
+
+Google Cloud Shell
+
+Google Cloud Console
+
+Git & GitHub
+
+REST APIs
+
+JSON
+
+📌 What I’m Currently Doing
+
+Enhancing my skills in AI-based and Full Stack Web Development
+
+Working on academic and personal projects
+
+Exploring cloud-based development environments
+
+Improving problem-solving and coding practices
+
+🎯 Career Goals
+
+Build scalable and intelligent software solutions
+
+Grow as a Full Stack Developer with AI expertise
+
+Gain practical industry-level development experience
+
+Continuously learn and adapt to new technologies
+
+📫 Connect With Me
+
+Feel free to explore my repositories and connect with me on GitHub.
+
+⭐ Always eager to learn, collaborate, and take on new challenges.
