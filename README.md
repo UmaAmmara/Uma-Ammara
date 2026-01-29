@@ -1,62 +1,88 @@
-👋 Hi, I’m an Aspiring Software Engineer
+Hi 👋, I'm an Aspiring Software Engineer
 
-💡 Passionate • Self-Motivated • Growth-Driven
-
-I am a motivated and detail-oriented Software Engineer with a strong focus on
-Artificial Intelligence (AI) and Full Stack Web Development.
-
-I enjoy building real-world applications, learning modern technologies, and solving problems using clean, efficient, and scalable code.
+I am a passionate and self-motivated Software Engineer with strong interests in Artificial Intelligence (AI) and Web Development.
+I enjoy building real-world applications, learning modern technologies, and solving complex problems through clean, efficient, and scalable code.
 
 🚀 Skills & Expertise
 💻 Web Development
 
-✔️ HTML | CSS | JavaScript
-✔️ Modern UI development with React.js
-✔️ Backend development using Flask, Node.js & Express.js
-✔️ Building and integrating RESTful APIs
-✔️ Responsive and user-friendly web applications
+Frontend development using HTML, CSS, JavaScript
+
+Modern UI development with React.js
+
+Backend development using Flask, Node.js, and Express.js
+
+Building RESTful APIs and integrating frontend with backend
+
+Responsive and user-friendly web interfaces
 
 🤖 Artificial Intelligence & NLP
 
-✔️ Strong understanding of Machine Learning fundamentals
-✔️ Knowledge of core AI concepts
-✔️ Hands-on experience with Natural Language Processing (NLP)
-✔️ Data analysis and experimentation using Python
+Strong understanding of Machine Learning fundamentals
+
+Experience with Artificial Intelligence concepts
+
+Hands-on knowledge of Natural Language Processing (NLP)
+
+Data analysis and experimentation using Python
 
 🛠️ Technologies & Tools
-🔤 Programming Languages
+Programming Languages
 
-JavaScript · Python · Java
+JavaScript
 
-🧩 Frameworks & Libraries
+Python
 
-React.js · Flask · Node.js · Express.js
+Java
 
-🗄️ Databases
+Frameworks & Libraries
 
-MongoDB · PostgreSQL
+React.js
 
-⚙️ Development Tools
+Flask
 
-Git & GitHub · Google Cloud Shell · Google Cloud Console
-REST APIs · JSON
+Node.js
+
+Express.js
+
+Databases
+
+MongoDB
+
+PostgreSQL
+
+Cloud & Dev Tools
+
+Google Cloud Shell
+
+Google Cloud Console
+
+Git & GitHub
+
+REST APIs
+
+JSON
 
 📌 What I’m Currently Doing
 
-🔹 Improving skills in AI-driven & Full Stack Web Development
-🔹 Working on academic and personal projects
-🔹 Exploring cloud-based development environments
-🔹 Strengthening problem-solving and coding practices
+Improving my skills in AI-driven and Full Stack Web Development
 
-🎯 Career Goals
+Working with cloud-based development environments
 
-🎯 Build scalable and intelligent software solutions
-🎯 Grow as a Full Stack Developer with AI expertise
-🎯 Gain hands-on industry-level experience
-🎯 Continuously learn and adapt to emerging technologies
+Building personal and academic projects
+
+🎯 Goals
+
+Build intelligent and scalable applications
+
+Grow as a Full Stack & AI-focused Developer
+
+Gain hands-on industry experience
+
+Continuously learn and adapt to emerging technologies
 
 📫 Connect With Me
 
-🔗 Feel free to explore my repositories and connect with me on GitHub
+Feel free to explore my repositories and connect with me here on GitHub.
 
-⭐ Always eager to learn, collaborate, and take on new challenges.
+⭐ Always open to learning, collaboration, and new challenges.
