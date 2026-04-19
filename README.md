@@ -1,8 +1,6 @@
 # Hi there 👋, I'm an Aspiring Software Engineer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blue?style=for-the-badge" />
-</p>
+
 
 I am a passionate and self-motivated **Software Engineer** with strong interests in **Artificial Intelligence (AI)** and **Web Development**. I enjoy building real-world applications, learning modern technologies, and solving complex problems through clean, efficient, and scalable code.
 
@@ -50,8 +48,8 @@ I am a passionate and self-motivated **Software Engineer** with strong interests
 Feel free to explore my repositories and connect with me here on GitHub.
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+ 
+  <a href="https://www.linkedin.com/in/umaammara/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
 
 ⭐ *Always open to learning, collaboration, and new challenges.*
