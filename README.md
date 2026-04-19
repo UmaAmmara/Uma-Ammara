@@ -47,9 +47,5 @@ I am a passionate and self-motivated **Software Engineer** with strong interests
 ### 📫 Connect With Me
 Feel free to explore my repositories and connect with me here on GitHub.
 
-<p align="left">
- 
-  <a href="https://www.linkedin.com/in/umaammara/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-</p>
 
 ⭐ *Always open to learning, collaboration, and new challenges.*
